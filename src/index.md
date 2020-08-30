@@ -1,12 +1,15 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Hi, Tatiana here, and there...
+metaTitle: Daruma Creative
+metaDesc: Illustrator in Northern Michigan specializing in brand supporting
+  artwork. Supporting companies who want to make positive changes in the world.
 postsHeading: Latest posts
 archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+socialImage: ""
 ---
+[Twitter](https://twitter.com/darumacreative)
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+[Instagram](https://www.instagram.com/darumacreative/)
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+[Dribbble](https://dribbble.com/DarumaCreative)
